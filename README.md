@@ -1,2 +1,7 @@
 # ML
-Repository of all the machine learning algorithms and projects i am doing
+This is a repository dedicated for all the machine learning algorithms I implement and projects I do throughout my journey in learning Machine Learning
+
+Contents
+1. Scikit learn
+2. Pytorch
+3. Linear Regression 
